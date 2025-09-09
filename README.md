@@ -35,7 +35,7 @@
 
 ### 🔌 Electrifying NY EV Adoption 
 [<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="360" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/Electrifying-New-York-FV-Adoption-Incentive-Insights)  
-**Description:** Analyzes EV adoption, rebates, and charging infrastructure in NY using Python, SQL, Tableau. Visualizes trends to reveal how incentives and infrastructure drive adoption.  
+**Description:** Analyzes EV adoption, rebates, and charging infrastructure in NY using Python, SQL, and Tableau. Visualizes trends to reveal how incentives and infrastructure drive adoption.  
 **Repo:** [NY EV Adoption Insights](https://github.com/Karan-Salunkhe/Electrifying-New-York-FV-Adoption-Incentive-Insights)  
 <br clear="all">
 
