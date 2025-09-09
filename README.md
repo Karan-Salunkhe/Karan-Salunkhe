@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Karan+Salunkhe!;Data+Analyst+|+Business+Analyst+|+Data+Engineer;Transforming+Data+into+Actionable+Insights;Building+ML+Models+and+Recommendation+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Karan+Salunkhe!;Data+Enthusiast+%7C+Analytics+Problem-Solver;Leveraging+data+to+drive+business+growth" />
 </p>
+
 
 ---
 
@@ -85,8 +86,7 @@
 
 📧 Email: [karan@example.com](mailto:karan@example.com)  
 🔗 LinkedIn: [linkedin.com/in/karan-salunkhe](https://www.linkedin.com/in/karan-salunkhe/)  
-💻 GitHub: [github.com/Karan-Salunkhe](https://github.com/Karan-Salunkhe)  
-🌐 Portfolio/Blog: [binhhoang.io/blog/anime-recommender](https://binhhoang.io/blog/anime-recommender/)  
+💻 GitHub: [github.com/Karan-Salunkhe](https://github.com/Karan-Salunkhe)   
 
 ---
 
