@@ -47,17 +47,37 @@
 
 ### ⚡ Core Skills
 
+## 💻 Technical Skills
+
 **Programming & ML:**  
-![Python](https://img.shields.io/badge/Python-3.8-blue) ![R](https://img.shields.io/badge/R-4.2.3-blue) ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.23.1-lightgrey)  
+![Python](https://img.shields.io/badge/Python-3.8-blue) 
+![R](https://img.shields.io/badge/R-4.2.3-blue) 
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.23.1-lightgrey) 
+![Pandas](https://img.shields.io/badge/Pandas-1.5.3-blue) 
+![NumPy](https://img.shields.io/badge/NumPy-1.24.2-lightgrey) 
 
 **Data & Cloud:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4.4.0-green) ![AWS](https://img.shields.io/badge/AWS-S3-orange) ![GCP](https://img.shields.io/badge/GCP-Compute-blue)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4.0-green) 
+![AWS](https://img.shields.io/badge/AWS-S3-orange) 
+![GCP](https://img.shields.io/badge/GCP-Compute-blue) 
+![BigQuery](https://img.shields.io/badge/BigQuery-2023-blue) 
+![Snowflake](https://img.shields.io/badge/Snowflake-2023-lightblue) 
 
 **Visualization & BI:**  
-![Tableau](https://img.shields.io/badge/Tableau-2022-blue) ![Power BI](https://img.shields.io/badge/PowerBI-2021-yellow) ![Dash](https://img.shields.io/badge/Dash-1.21-lightgrey)  
+![Tableau](https://img.shields.io/badge/Tableau-2022-blue) 
+![Power BI](https://img.shields.io/badge/PowerBI-2021-yellow) 
+![Dash](https://img.shields.io/badge/Dash-1.21-lightgrey) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-lightgrey) 
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12-blue) 
 
 **Automation & ETL:**  
-![Airflow](https://img.shields.io/badge/Airflow-2.3-blue) ![Docker](https://img.shields.io/badge/Docker-20.10-blue) ![Git](https://img.shields.io/badge/Git-2.40-red)
+![Airflow](https://img.shields.io/badge/Airflow-2.3-blue) 
+![Docker](https://img.shields.io/badge/Docker-20.10-blue) 
+![Git](https://img.shields.io/badge/Git-2.40-red) 
+![Jenkins](https://img.shields.io/badge/Jenkins-2.375-blue) 
+![ETL](https://img.shields.io/badge/ETL-Pipelines-lightgrey) 
+
 
 ---
 
@@ -72,8 +92,4 @@
 
 _"Turning complex data into actionable insights, building intelligent systems, and delivering measurable business impact."_
 
----
 
-## 📈 GitHub Stats
-
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan-Salunkhe&show_icons=true&theme=blue-green)
