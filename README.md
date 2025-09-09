@@ -2,7 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Karan+Salunkhe!;Data+Enthusiast+%7C+Analytics+Problem-Solver;Leveraging+data+to+drive+business+growth" />
 </p>
 
-
+---
+Hi, I'm **Karan Salunkhe** – a passionate Data Analyst and Business Intelligence professional with expertise in Python, SQL, Tableau, and Power BI.  
+I specialize in transforming complex datasets into actionable insights that drive strategic decision-making.  
+With experience in data engineering, ETL pipelines, and predictive modeling, I deliver scalable and accurate solutions.  
+I thrive on solving analytical challenges, optimizing workflows, and providing data-driven recommendations.  
+My goal is to leverage data to create measurable business impact and support organizations in making smarter decisions.
 ---
 
 ## 🏆 Featured Projects
