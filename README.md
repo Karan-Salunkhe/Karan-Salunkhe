@@ -20,7 +20,7 @@
 <br clear="all">
 
 ### 🎥 Cinematic Data Analysis 
-[<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7bf00359-d57a-40e0-b3ac-a7af026335ed" />
+[<img width="360" align="left" style="margin-right:10px alt="image" src="https://github.com/user-attachments/assets/7bf00359-d57a-40e0-b3ac-a7af026335ed" />
 ](https://github.com/Karan-Salunkhe/Cinematic-Data-Analysis)  
 **Description:** Analyzes IMDb data to uncover how budgets, critic vs audience ratings, and revenue interact. Helps define artistic vs financial success.  
 **Repo:** [Cinematic Data Analysis](https://github.com/Karan-Salunkhe/Cinematic-Data-Analysis)  
