@@ -3,10 +3,11 @@
 </p>
 
 ---
-Hi, I'm **Karan Salunkhe**, passionate about transforming data into strategic business value.  
-Skilled in **Python, SQL, Tableau**, I build predictive models, dashboards, and automated pipelines.  
+<p align="center">
+Hi, I'm <b>Karan Salunkhe</b>, passionate about transforming data into strategic business value.<br>
+Skilled in <b>Python, SQL, Tableau</b>, I build predictive models, dashboards, and automated pipelines.<br>
 I deliver actionable insights that drive strategic decisions and accelerate business growth.
-
+</p>
 ---
 
 ## 🏆 Featured Projects
