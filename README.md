@@ -8,6 +8,7 @@ Hi, I'm <b>Karan Salunkhe</b>, passionate about transforming data into strategic
 Skilled in <b>Python, SQL, Tableau</b>, I build predictive models, dashboards, and automated pipelines.<br>
 I deliver actionable insights that drive strategic decisions and accelerate business growth.
 </p>
+
 ---
 ## 🏆 Featured Projects
 <div align="left">
@@ -88,7 +89,7 @@ I deliver actionable insights that drive strategic decisions and accelerate busi
 
 ## 📬 Contact
 
-📧 Email: [karan@example.com](mailto:karan@example.com)  
+📧 Email: [karan.c.salunkhe@gmail.com](mailto:karan.c.salunkhe@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/karan-salunkhe](https://www.linkedin.com/in/karan-salunkhe/)  
 💻 GitHub: [github.com/Karan-Salunkhe](https://github.com/Karan-Salunkhe)   
 
