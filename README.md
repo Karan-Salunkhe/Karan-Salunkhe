@@ -1,45 +1,47 @@
 # 👋 Hi, I'm Karan Salunkhe
 
-**Data Scientist | ML & Analytics Enthusiast**
-
-I develop **data-driven solutions** and **interactive dashboards** to solve real-world business problems. My work spans **predictive modeling, recommendation systems, and data visualization**.
-
----
-
-## 🏆 Featured Projects
-
-### AniFame 🎬
-![AniFame Demo](https://media.giphy.com/media/XQgQ5pxOjv4WxkEzD8/giphy.gif)
-**Description:** Predict anime success using historical MyAnimeList data, helping studios identify profitable projects before production.
-**Tech Stack:** Python, Scikit-learn, Pandas
-**Repo:** [AniFame GitHub](https://github.com/Karan-Salunkhe/AniFame)
-
-### AnimeCompass 🧭
-![AnimeCompass Demo](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-**Description:** User-empowered anime recommender combining content-based & collaborative filtering. Users can control adventurousness of recommendations.
-**Tech Stack:** Python, Flask, MongoDB
-**Repo:** [AnimeCompass GitHub](https://github.com/Karan-Salunkhe/AnimeCompass)
+<!-- Dynamic Changing Text Effect using GIF -->
+![Dynamic Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0c7cfa&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Enthusiast;Recommender+System+Builder;Dashboard+Wizard)
 
 ---
 
-## ⚡ Skills & Tools
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![R](https://img.shields.io/badge/R-4.2.3-blue)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green)
-![Flask](https://img.shields.io/badge/Flask-1.1.2-orange)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.23.1-lightgrey)
-![Pandas](https://img.shields.io/badge/Pandas-1.0.5-blue)
-![NumPy](https://img.shields.io/badge/NumPy-1.18.5-lightgrey)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.10.1-purple)
+## 🚀 Key Projects
+
+🏆 **AniFame** – Predict anime success using ML for MyAnimeList data; helps studios identify profitable projects before production.  
+**Tech:** Python, Pandas, Scikit-learn | [GitHub](https://github.com/Karan-Salunkhe/AniFame)  
+
+🧭 **AnimeCompass** – User-empowered anime recommender; combines content-based & collaborative filtering with adventurousness control.  
+**Tech:** Python, Flask, MongoDB | [GitHub](https://github.com/Karan-Salunkhe/AnimeCompass)  
+
+📊 **SmartGrid Insights** – Energy consumption forecasting in SC; helps optimize energy allocation and reduce peak load.  
+**Tech:** Python, Tableau, ML Models | [GitHub](#)
 
 ---
 
-## 📬 Contact Me
-- **Email:** karan@example.com
-- **LinkedIn:** [linkedin.com/in/karan-salunkhe](https://www.linkedin.com/in/karan-salunkhe/)
-- **Portfolio Blog:** [My Projects](https://binhhoang.io/blog/anime-recommender/)
+## ⚡ Core Competencies
+
+🐍 **Programming & ML:** Python | R | SQL | Pandas | NumPy | Scikit-learn | TensorFlow  
+🗄️ **Databases:** MySQL | PostgreSQL | MongoDB | Snowflake  
+☁️ **Cloud & Services:** AWS (S3, Lambda, SageMaker) | Google Cloud | Azure (Databricks, ML Pipelines)  
+📊 **Visualization & BI:** Tableau | Power BI | Dash | Matplotlib | Seaborn  
+🔄 **ETL & Automation:** Airflow | Docker | Git | API Automation  
+🤖 **AI/ML Tools:** LLMs (GPT-4) | Recommender Systems | NLP | Forecasting Models  
+
+---
+
+## 📬 Contact
+
+📧 **Email:** karan@example.com  
+🔗 **LinkedIn:** [linkedin.com/in/karan-salunkhe](https://www.linkedin.com/in/karan-salunkhe/)  
+🌐 **Portfolio/Blog:** [binhhoang.io/blog/anime-recommender](https://binhhoang.io/blog/anime-recommender/)  
+💻 **GitHub:** [github.com/Karan-Salunkhe](https://github.com/Karan-Salunkhe)  
+
+---
+
+> "Transforming data into actionable insights, building intelligent systems, and delivering measurable impact."
 
 ---
 
 ## 📈 GitHub Stats
+
 ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan-Salunkhe&show_icons=true&theme=blue-green)
