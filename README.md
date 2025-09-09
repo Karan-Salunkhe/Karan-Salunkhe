@@ -28,7 +28,7 @@
 
 ### ⚡ SmartGrid Insights
 [<img src="https://github.com/Karan-Salunkhe/SmartGrid-Insights-Peak-Energy-Optimization-in-South-Carolina/blob/main/SmartGridDiagram.png?raw=true" width="360" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/SmartGrid-Insights-Peak-Energy-Optimization-in-South-Carolina)
-**Description:** Predicts residential energy use in South Carolina during peak summer months using ML and home/weather data. Helps utilities optimize grid demand.
+**Description:** Predicts residential energy use in South Carolina during peak summer months using ML and home/weather data. Helps utilities optimize grid demand.<br>
 **Repo:** [SmartGrid Insights](https://github.com/Karan-Salunkhe/SmartGrid-Insights-Peak-Energy-Optimization-in-South-Carolina)
 <br clear="all">
 
