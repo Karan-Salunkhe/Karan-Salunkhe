@@ -3,10 +3,8 @@
 </p>
 
 ---
-Hi, I'm **Karan Salunkhe** – a passionate Data Analyst and Business Intelligence professional with expertise in Python, SQL, Tableau, and Power BI.  
-I specialize in transforming complex datasets into actionable insights that drive strategic decision-making.  
-With experience in data engineering, ETL pipelines, and predictive modeling, I deliver scalable and accurate solutions.  
-I thrive on solving analytical challenges, optimizing workflows, and providing data-driven recommendations.  
+Hi, I'm **Karan Salunkhe** – a passionate Data Analyst and Business Intelligence professional with expertise in Python, SQL, Tableau, and Power BI.  I specialize in transforming complex datasets into actionable insights that drive strategic decision-making.  
+With experience in data engineering, ETL pipelines, and predictive modeling, I deliver scalable and accurate solutions.  I thrive on solving analytical challenges, optimizing workflows, and providing data-driven recommendations.  
 My goal is to leverage data to create measurable business impact and support organizations in making smarter decisions.
 ---
 
