@@ -2,7 +2,7 @@
 
 **Data Scientist | ML & Analytics Enthusiast**  
 
-I develop **data-driven solutions** and **interactive dashboards** to solve real-world business problems. My work spans **predictive modeling, recommendation systems, and data visualization**.  
+I build **data-driven solutions** and **interactive dashboards** to solve business problems. My work spans **predictive modeling, recommendation systems, and data visualization**.  
 
 ---
 
@@ -11,7 +11,7 @@ I develop **data-driven solutions** and **interactive dashboards** to solve real
 <div style="display:flex; flex-wrap:wrap; gap:2rem; justify-content:center;">
 
 <!-- AniFame Card -->
-<div style="border:1px solid #ddd; padding:1rem; border-radius:10px; width:300px; text-align:center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<div style="border:1px solid #ddd; padding:1rem; border-radius:10px; width:300px; text-align:center;">
   <img src="https://user-images.githubusercontent.com/62628676/97792286-b8978b00-1bb2-11eb-8a9d-7df79a578d28.png" width="100%" alt="AniFame Screenshot"/>
   <h3>AniFame 🎬</h3>
   <p>Predict anime success using historical MyAnimeList data, helping studios <strong>identify profitable projects before production</strong>.</p>
@@ -24,7 +24,7 @@ I develop **data-driven solutions** and **interactive dashboards** to solve real
 </div>
 
 <!-- AnimeCompass Card -->
-<div style="border:1px solid #ddd; padding:1rem; border-radius:10px; width:300px; text-align:center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<div style="border:1px solid #ddd; padding:1rem; border-radius:10px; width:300px; text-align:center;">
   <img src="https://user-images.githubusercontent.com/62628676/93409135-33efe800-f864-11ea-9c10-0396cda3428d.png" width="100%" alt="AnimeCompass Screenshot"/>
   <h3>AnimeCompass 🧭</h3>
   <p>User-empowered anime recommender combining <strong>content-based & collaborative filtering</strong>. Users can control adventurousness of recommendations.</p>
@@ -37,6 +37,18 @@ I develop **data-driven solutions** and **interactive dashboards** to solve real
 </div>
 
 </div>
+
+---
+
+## 🎬 GIF Demos
+
+### AniFame Demo
+![AniFame Demo](https://media.giphy.com/media/XQgQ5pxOjv4WxkEzD8/giphy.gif)  
+[View Repo](https://github.com/Karan-Salunkhe/AniFame)
+
+### AnimeCompass Demo
+![AnimeCompass Demo](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+[View Repo](https://github.com/Karan-Salunkhe/AnimeCompass)
 
 ---
 
