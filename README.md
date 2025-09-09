@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Karan Salunkhe
 
-<!-- Dynamic Changing Text Effect using GIF -->
-![Dynamic Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0c7cfa&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Enthusiast;Recommender+System+Builder;Dashboard+Wizard)
+![Dynamic Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=500&color=0c7cfa&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Analyst;Data+Engineer)
+
+Hi! I help businesses make data-driven decisions and build actionable insights from complex datasets.
 
 ---
 
