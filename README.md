@@ -1,46 +1,45 @@
-# 👋 Hi, I'm Karan Salunkhe
-
-![Dynamic Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=0c7cfa&center=true&vCenter=true&width=600&lines=I+am+a+Data+Analyst+specializing+in+transforming+complex+datasets;I+also+work+as+a+Business+Analyst+helping+organizations+make+data-driven+decisions;I+am+passionate+about+Data+Engineering+and+building+robust+data+pipelines)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Karan+Salunkhe!;Data+Analyst+|+Business+Analyst+|+Data+Engineer;Transforming+Data+into+Actionable+Insights;Building+ML+Models+%26+Recommendation+Systems;Creating+Interactive+Dashboards+%26+Analytics+Solutions;Driving+Automation+and+ETL+Workflows" />
+</p>
 
 ---
 
 ## 🚀 Key Projects
 
-🏆 **AniFame** – Predict anime success using ML for MyAnimeList data; helps studios identify profitable projects before production.  
-**Tech:** Python, Pandas, Scikit-learn | [GitHub](https://github.com/Karan-Salunkhe/AniFame)  
-
-🧭 **AnimeCompass** – User-empowered anime recommender; combines content-based & collaborative filtering with adventurousness control.  
-**Tech:** Python, Flask, MongoDB | [GitHub](https://github.com/Karan-Salunkhe/AnimeCompass)  
-
-📊 **SmartGrid Insights** – Energy consumption forecasting in SC; helps optimize energy allocation and reduce peak load.  
-**Tech:** Python, Tableau, ML Models | [GitHub](#)
+- [🎬 AniFame](https://github.com/Karan-Salunkhe/AniFame) – Predict anime success using ML on MyAnimeList data; helps studios identify profitable projects before production  
+- [🧭 AnimeCompass](https://github.com/Karan-Salunkhe/AnimeCompass) – User-empowered anime recommender with content-based & collaborative filtering, letting users control adventurousness  
+- [📊 SmartGrid Insights](https://github.com/Karan-Salunkhe/SmartGrid-Insights) – Energy consumption forecasting for SC; ML models optimize energy allocation and reduce peak load  
+- [📈 Other Projects] – Add other portfolio projects here with short description and GitHub links  
 
 ---
 
-## ⚡ Core Competencies
+### CORE COMPETENCIES
+🐍 **Programming & ML:** Python | R | SQL | Pandas | NumPy | Scikit-learn | TensorFlow | StatsModels  
 
-🐍 **Programming & ML:** Python | R | SQL | Pandas | NumPy | Scikit-learn | TensorFlow  
 🗄️ **Databases:** MySQL | PostgreSQL | MongoDB | Snowflake  
+
 ☁️ **Cloud & Services:** AWS (S3, Lambda, SageMaker) | Google Cloud | Azure (Databricks, ML Pipelines)  
+
 📊 **Visualization & BI:** Tableau | Power BI | Dash | Matplotlib | Seaborn  
-🔄 **ETL & Automation:** Airflow | Docker | Git | API Automation  
+
+🔄 **ETL & Automation:** Airflow | Docker | Git | API Automation | Data Pipelines  
+
 🤖 **AI/ML Tools:** LLMs (GPT-4) | Recommender Systems | NLP | Forecasting Models  
 
 ---
 
 ## 📬 Contact
 
-📧 **Email:** karan@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/karan-salunkhe](https://www.linkedin.com/in/karan-salunkhe/)  
-🌐 **Portfolio/Blog:** [binhhoang.io/blog/anime-recommender](https://binhhoang.io/blog/anime-recommender/)  
-💻 **GitHub:** [github.com/Karan-Salunkhe](https://github.com/Karan-Salunkhe)  
+📧 Email: [karan@example.com](mailto:karan@example.com)  
+🔗 LinkedIn: [linkedin.com/in/karan-salunkhe](https://www.linkedin.com/in/karan-salunkhe/)  
+💻 GitHub: [github.com/Karan-Salunkhe](https://github.com/Karan-Salunkhe)  
+🌐 Portfolio/Blog: [binhhoang.io/blog/anime-recommender](https://binhhoang.io/blog/anime-recommender/)  
 
 ---
 
-> "Transforming data into actionable insights, building intelligent systems, and delivering measurable impact."
+_"Transforming complex data into actionable insights, building intelligent systems, and delivering measurable business impact."_  
 
 ---
 
 ## 📈 GitHub Stats
-
 ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan-Salunkhe&show_icons=true&theme=blue-green)
