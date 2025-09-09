@@ -8,31 +8,31 @@
 <div align="left">
 
 ### 🎬 AniFame 
-[<img src="https://user-images.githubusercontent.com/62628676/97792286-b8978b00-1bb2-11eb-8a9d-7df79a578d28.png" width="180" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/AniFame)  
+[<img src="https://user-images.githubusercontent.com/62628676/97792286-b8978b00-1bb2-11eb-8a9d-7df79a578d28.png" width="360" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/AniFame)  
 **Description:** Addresses the $2M+ cost of producing anime seasons by predicting ratings and success probability before production. Helps studios identify profitable projects, reduce financial risk.  
 **Repo:** [AniFame](https://github.com/Karan-Salunkhe/AniFame)  
 <br clear="all">
 
 ### 🧭 AnimeCompass 
-[<img src="https://user-images.githubusercontent.com/62628676/93409135-33efe800-f864-11ea-9c10-0396cda3428d.png" width="180" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/AnimeCompass)  
+[<img src="https://user-images.githubusercontent.com/62628676/93409135-33efe800-f864-11ea-9c10-0396cda3428d.png" width="360" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/AnimeCompass)  
 **Description:** User-empowered anime recommender combining content-based & collaborative filtering; lets users control adventurousness for personalized recommendations.  
 **Repo:** [AnimeCompass](https://github.com/Karan-Salunkhe/AnimeCompass)  
 <br clear="all">
 
 ### 🎥 Cinematic Data Analysis 
-[<img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="180" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/Cinematic-Data-Analysis)  
+[<img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="360" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/Cinematic-Data-Analysis)  
 **Description:** Analyzes IMDb data to uncover how budgets, critic vs audience ratings, and revenue interact. Helps define artistic vs financial success.  
 **Repo:** [Cinematic Data Analysis](https://github.com/Karan-Salunkhe/Cinematic-Data-Analysis)  
 <br clear="all">
 
 ### ⚡ SmartGrid Insights 
-[<img src="https://media.giphy.com/media/XQgQ5pxOjv4WxkEzD8/giphy.gif" width="180" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/SmartGrid-Insights-Peak-Energy-Optimization-in-South-Carolina)  
+[<img src="https://media.giphy.com/media/XQgQ5pxOjv4WxkEzD8/giphy.gif" width="360" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/SmartGrid-Insights-Peak-Energy-Optimization-in-South-Carolina)  
 **Description:** Predicts residential energy use in South Carolina during peak summer months using ML and home/weather data. Helps utilities optimize grid demand.  
 **Repo:** [SmartGrid Insights](https://github.com/Karan-Salunkhe/SmartGrid-Insights-Peak-Energy-Optimization-in-South-Carolina)  
 <br clear="all">
 
 ### 🔌 Electrifying NY EV Adoption 
-[<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/Electrifying-New-York-FV-Adoption-Incentive-Insights)  
+[<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="360" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/Electrifying-New-York-FV-Adoption-Incentive-Insights)  
 **Description:** Analyzes EV adoption, rebates, and charging infrastructure in NY using Python, SQL, Tableau. Visualizes trends to reveal how incentives and infrastructure drive adoption.  
 **Repo:** [NY EV Adoption Insights](https://github.com/Karan-Salunkhe/Electrifying-New-York-FV-Adoption-Incentive-Insights)  
 <br clear="all">
