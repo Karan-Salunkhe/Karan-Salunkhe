@@ -26,11 +26,12 @@
 <br clear="all">
 
 
-### ⚡ SmartGrid Insights 
-[<img src="https://media.giphy.com/media/XQgQ5pxOjv4WxkEzD8/giphy.gif" width="360" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/SmartGrid-Insights-Peak-Energy-Optimization-in-South-Carolina)  
-**Description:** Predicts residential energy use in South Carolina during peak summer months using ML and home/weather data. Helps utilities optimize grid demand.  
-**Repo:** [SmartGrid Insights](https://github.com/Karan-Salunkhe/SmartGrid-Insights-Peak-Energy-Optimization-in-South-Carolina)  
+### ⚡ SmartGrid Insights
+[<img src="https://www.mdpi.com/2071-1050/12/14/5561" width="360" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/SmartGrid-Insights-Peak-Energy-Optimization-in-South-Carolina)
+**Description:** Predicts residential energy use in South Carolina during peak summer months using ML and home/weather data. Helps utilities optimize grid demand.
+**Repo:** [SmartGrid Insights](https://github.com/Karan-Salunkhe/SmartGrid-Insights-Peak-Energy-Optimization-in-South-Carolina)
 <br clear="all">
+
 
 ### 🔌 Electrifying NY EV Adoption 
 [<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="360" align="left" style="margin-right:10px;">](https://github.com/Karan-Salunkhe/Electrifying-New-York-FV-Adoption-Incentive-Insights)  
